@@ -1,0 +1,5 @@
+{
+  "sourceFolder": [ "D:\\folderFromBackUp\\", "D:\\secondFolderFromBackup"],
+  "destinationFolder": "D:\\folderToBackUp\\",
+  "levelOfLogging": "4"  
+}
